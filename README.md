@@ -1,0 +1,1 @@
+This repository is for the projects I have done under ICT Academy. It prepares me for a career as a data analyst by helping me learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. 
